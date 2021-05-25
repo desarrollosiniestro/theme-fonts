@@ -1,0 +1,168 @@
+@font-face {
+    font-family: 'BasicSans';
+    src: url('BasicSans-ExtraLight.eot');
+    src: url('BasicSans-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('BasicSans-ExtraLight.woff2') format('woff2'),
+        url('BasicSans-ExtraLight.woff') format('woff'),
+        url('BasicSans-ExtraLight.svg#BasicSans-ExtraLight') format('svg');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BasicSans';
+    src: url('BasicSans-Bold.eot');
+    src: url('BasicSans-Bold.eot?#iefix') format('embedded-opentype'),
+        url('BasicSans-Bold.woff2') format('woff2'),
+        url('BasicSans-Bold.woff') format('woff'),
+        url('BasicSans-Bold.svg#BasicSans-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BasicSans';
+    src: url('BasicSans-BlackIt.eot');
+    src: url('BasicSans-BlackIt.eot?#iefix') format('embedded-opentype'),
+        url('BasicSans-BlackIt.woff2') format('woff2'),
+        url('BasicSans-BlackIt.woff') format('woff'),
+        url('BasicSans-BlackIt.svg#BasicSans-BlackIt') format('svg');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BasicSans';
+    src: url('BasicSans-BoldIt.eot');
+    src: url('BasicSans-BoldIt.eot?#iefix') format('embedded-opentype'),
+        url('BasicSans-BoldIt.woff2') format('woff2'),
+        url('BasicSans-BoldIt.woff') format('woff'),
+        url('BasicSans-BoldIt.svg#BasicSans-BoldIt') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BasicSans';
+    src: url('BasicSans-Black.eot');
+    src: url('BasicSans-Black.eot?#iefix') format('embedded-opentype'),
+        url('BasicSans-Black.woff2') format('woff2'),
+        url('BasicSans-Black.woff') format('woff'),
+        url('BasicSans-Black.svg#BasicSans-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BasicSans';
+    src: url('BasicSans-Regular.eot');
+    src: url('BasicSans-Regular.eot?#iefix') format('embedded-opentype'),
+        url('BasicSans-Regular.woff2') format('woff2'),
+        url('BasicSans-Regular.woff') format('woff'),
+        url('BasicSans-Regular.svg#BasicSans-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BasicSans';
+    src: url('BasicSans-LightIt.eot');
+    src: url('BasicSans-LightIt.eot?#iefix') format('embedded-opentype'),
+        url('BasicSans-LightIt.woff2') format('woff2'),
+        url('BasicSans-LightIt.woff') format('woff'),
+        url('BasicSans-LightIt.svg#BasicSans-LightIt') format('svg');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BasicSans';
+    src: url('BasicSans-ExtraLightIt.eot');
+    src: url('BasicSans-ExtraLightIt.eot?#iefix') format('embedded-opentype'),
+        url('BasicSans-ExtraLightIt.woff2') format('woff2'),
+        url('BasicSans-ExtraLightIt.woff') format('woff'),
+        url('BasicSans-ExtraLightIt.svg#BasicSans-ExtraLightIt') format('svg');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BasicSans';
+    src: url('BasicSans-Light.eot');
+    src: url('BasicSans-Light.eot?#iefix') format('embedded-opentype'),
+        url('BasicSans-Light.woff2') format('woff2'),
+        url('BasicSans-Light.woff') format('woff'),
+        url('BasicSans-Light.svg#BasicSans-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BasicSans';
+    src: url('BasicSans-SemiBold.eot');
+    src: url('BasicSans-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('BasicSans-SemiBold.woff2') format('woff2'),
+        url('BasicSans-SemiBold.woff') format('woff'),
+        url('BasicSans-SemiBold.svg#BasicSans-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BasicSans';
+    src: url('BasicSans-Thin.eot');
+    src: url('BasicSans-Thin.eot?#iefix') format('embedded-opentype'),
+        url('BasicSans-Thin.woff2') format('woff2'),
+        url('BasicSans-Thin.woff') format('woff'),
+        url('BasicSans-Thin.svg#BasicSans-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BasicSans';
+    src: url('BasicSans-RegularIt.eot');
+    src: url('BasicSans-RegularIt.eot?#iefix') format('embedded-opentype'),
+        url('BasicSans-RegularIt.woff2') format('woff2'),
+        url('BasicSans-RegularIt.woff') format('woff'),
+        url('BasicSans-RegularIt.svg#BasicSans-RegularIt') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BasicSans';
+    src: url('BasicSans-SemiBoldIt.eot');
+    src: url('BasicSans-SemiBoldIt.eot?#iefix') format('embedded-opentype'),
+        url('BasicSans-SemiBoldIt.woff2') format('woff2'),
+        url('BasicSans-SemiBoldIt.woff') format('woff'),
+        url('BasicSans-SemiBoldIt.svg#BasicSans-SemiBoldIt') format('svg');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BasicSans';
+    src: url('BasicSans-ThinIt.eot');
+    src: url('BasicSans-ThinIt.eot?#iefix') format('embedded-opentype'),
+        url('BasicSans-ThinIt.woff2') format('woff2'),
+        url('BasicSans-ThinIt.woff') format('woff'),
+        url('BasicSans-ThinIt.svg#BasicSans-ThinIt') format('svg');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
